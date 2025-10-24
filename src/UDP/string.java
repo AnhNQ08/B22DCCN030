@@ -2,7 +2,7 @@ package UDP;
 
 import java.net.*;
 
-public class Bai3 {
+public class string {
     public static void main(String[] args) throws Exception {
         DatagramSocket socket = new DatagramSocket();
         InetAddress address = InetAddress.getByName("203.162.10.109");
